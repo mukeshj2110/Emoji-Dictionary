@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: linear-gradient(to top right, #68d391, #276749);
+  padding: 2rem;
+}
+
+input {
+  padding: 1.5rem;
+  width: 80%;
+}
+
+.mean {
+  padding: 1rem;
+}
+
+.emojis {
+  font-size: 2rem;
+  cursor: pointer;
+}
